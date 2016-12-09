@@ -1,0 +1,12 @@
+# Mean-Stack
+Run the cmd.
+Run npm install to install all the dependenices required in the same foler as app.js
+Install and run mongodb.(requires you to run mongod in one cmd and mongo in the other while keeping mongod running)
+Once you start mongo db, type
+
+use contactlist
+This will create a database named contactlist.
+
+Run your angular application by typing node app and host the view on localhost//:3000.
+
+Enjoy!
